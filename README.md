@@ -2,6 +2,14 @@
 
 A complete educational project that trains a small decoder-only GPT from scratch on a custom game dialogue corpus, generates dialogue, applies dynamic and static INT8 post-training quantization, and compares serialized model size and simulated inference performance.
 
+## 🚀 Live Demo
+
+**Try it here:** [https://quantized-game-dialogue-simulator-j5xz37gmvcpmyxscta5crp.streamlit.app/](https://quantized-game-dialogue-simulator-j5xz37gmvcpmyxscta5crp.streamlit.app/)
+
+Generate game dialogue with the FP32, dynamic INT8 and static INT8 models side by side, and view the size, speed and accuracy comparison charts.
+
+> Note: measured latency in the deployed app reflects the cloud CPU. Benchmark numbers in this README come from a local laptop run.
+
 ## Requirements
 - Python 3.12 (recommended, as specified in the project brief)
 - Git
@@ -111,3 +119,5 @@ Tests cover tokenizer behavior, causal model output and loss, sequence-length va
 - **Dynamic INT8** now quantizes every Linear layer (attention QKV/proj, feed-forward, `lm_head`).
 - **Static INT8** is per-channel INT8 weights + calibrated fixed activation scales (`calibrate()`).
 - **Benchmark** reports size, measured latency, simulated edge-device speedup (INT8 MAC = 0.25x FP32), weight bytes read, validation loss/perplexity, and sample dialogue per variant. `python -m app.cli report` prints a comparison table.
+
+
