@@ -1,4 +1,4 @@
-<img width="1296" height="420" alt="image" src="https://github.com/user-attachments/assets/b5f287e6-06b8-4e4d-b61b-59651c57cd3c" />
+[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/ns743fnug4/badge.svg)](https://ask.thili.ai/b/ns743fnug4)
 
 # Quantized Game Dialogue Simulator
 
