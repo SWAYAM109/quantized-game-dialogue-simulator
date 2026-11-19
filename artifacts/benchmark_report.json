@@ -1,0 +1,69 @@
+{
+  "original_fp32": {
+    "serialized_size_bytes": 982281,
+    "linear_macs": 21712896,
+    "weight_bytes_read": 904704,
+    "simulated_relative_cost": 21712896.0,
+    "latency": {
+      "mean_ms": 1.2729666700276236,
+      "min_ms": 1.056100009009242,
+      "max_ms": 2.6896000490523875,
+      "runs": 30
+    },
+    "accuracy": {
+      "val_loss": 0.16889563575387,
+      "perplexity": 1.1839965655667755
+    },
+    "size_reduction_percent_vs_original": 0.0,
+    "simulated_speedup_vs_original": 1.0,
+    "measured_speedup_vs_original": 1.0
+  },
+  "dynamic_int8": {
+    "serialized_size_bytes": 310419,
+    "linear_macs": 21712896,
+    "weight_bytes_read": 226176,
+    "simulated_relative_cost": 5428224.0,
+    "latency": {
+      "mean_ms": 2.0781199991082153,
+      "min_ms": 1.566499995533377,
+      "max_ms": 3.554499999154359,
+      "runs": 30
+    },
+    "accuracy": {
+      "val_loss": 0.1696494996547699,
+      "perplexity": 1.1848894743599112
+    },
+    "size_reduction_percent_vs_original": 68.39814676248446,
+    "simulated_speedup_vs_original": 4.0,
+    "measured_speedup_vs_original": 0.6125568641723733
+  },
+  "static_int8": {
+    "serialized_size_bytes": 316115,
+    "linear_macs": 21712896,
+    "weight_bytes_read": 226176,
+    "simulated_relative_cost": 5428224.0,
+    "latency": {
+      "mean_ms": 2.077409993701925,
+      "min_ms": 1.6544000245630741,
+      "max_ms": 3.645599994342774,
+      "runs": 30
+    },
+    "accuracy": {
+      "val_loss": 0.1692543901503086,
+      "perplexity": 1.1844214057421245
+    },
+    "size_reduction_percent_vs_original": 67.81827196087474,
+    "simulated_speedup_vs_original": 4.0,
+    "measured_speedup_vs_original": 0.6127662203834925
+  },
+  "notes": [
+    "Measured latency depends on hardware and load; static INT8 here uses simulated (fake-quant) arithmetic, so it may be slower than FP32 on a laptop CPU.",
+    "simulated_speedup assumes an edge device with native INT8 kernels where an INT8 MAC costs 0.25x an FP32 MAC.",
+    "weight_bytes_read models memory traffic: FP32=4 bytes/weight, INT8=1 byte/weight."
+  ],
+  "samples": {
+    "original_fp32": "Hero: I sthave fought the hollow knights before. I am not afraid.\nElder: If you reach the whispering forest, you will find a ",
+    "dynamic_int8": "Hero: I sthave fought the hollow knights before. I am not afraid.\nElder: If you reach the whispering forest, you will find a ",
+    "static_int8": "Hero: I will find a lantern of embers waiting.\nHero: Stay close. If the ash wolves apppears, run for the river of ash.\nElder:"
+  }
+}

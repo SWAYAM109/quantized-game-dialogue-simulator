@@ -1,0 +1,875 @@
+Elder: The northern gate has fallen. The shadow army is already inside the valley.
+Hero: Then we defend the village. Where is the crystal?
+Elder: Beneath the old observatory, beyond the river of ash.
+Scout: I saw movement near the bridge. Three riders, no banners.
+Hero: Warn the villagers and keep the eastern road clear.
+Merchant: Travelers rarely come this way. The roads have become dangerous.
+Hero: I need supplies for the journey. What can you spare?
+Merchant: A healing potion, a map, and one piece of advice. Trust the quiet forest.
+Companion: You always choose the difficult path.
+Hero: The easy path leads nowhere today.
+Companion: I will stand beside you, whatever waits beyond the trees.
+Guard: Halt! State your business at the fortress.
+Hero: We carry a warning from the village. The enemy is gathering at the pass.
+Guard: The captain must hear this. Follow me, and do not touch the old weapons.
+Captain: If the pass is lost, the kingdom is divided.
+Hero: Give us a map and a little time. We can reach the ridge before sunset.
+Captain: Take the western trail. It is steep, but the patrols avoid it.
+Scout: Footprints in the mud. Something large crossed here during the night.
+Companion: Is it one of the creatures from the ruins?
+Scout: I hope not. The stones are still warm.
+Hero: Stay close. We move together.
+Villager: The well has turned black. The children are afraid.
+Elder: The crystal is losing its light. We must restore it before moonrise.
+Hero: Tell everyone to shelter indoors. I will find the source.
+Companion: There is a doorway behind the waterfall.
+Hero: It was hidden by the mist. Look, the symbols match the map.
+Spirit: Only a heart that remembers kindness may enter.
+Hero: We did not come for treasure. We came to save our home.
+Spirit: Then answer this: what grows stronger when it is shared?
+Companion: Hope.
+Spirit: The door is open. Take the light, but leave the greed behind.
+Hero: The crystal is whole again. The valley can breathe.
+Elder: You returned before the final bell. The village will remember this day.
+Merchant: Perhaps the roads will be safe again. I may open my shop tomorrow.
+Hero: Keep your supplies ready. Peace is worth protecting.
+Guard: The villagers say the bandit king will strike before the next moon.
+Hero: I will find a healing potion and end this before the bandit king reaches the village.
+Scout: Take a rusted blade. You will need it when the shadow army arrives.
+Hero: I have fought the shadow army before. I am not afraid.
+Blacksmith: Be careful near the river of ash. the hollow knights was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the river of ash.
+Elder: Few return from the whispering forest, but you are not like the others.
+Hero: We leave at dawn. Show me the way to the whispering forest.
+Blacksmith: Take a rusted blade. You will need it when the bandit king arrives.
+Hero: Then there is no time to lose. Lead on.
+Companion: The villagers say a dragon will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the whispering forest.
+Scout: I can offer you a silver key for the road. Spend it wisely.
+Hero: I will find a silver key and end this before the ash wolves reaches the village.
+Merchant: Be careful near the river of ash. the hollow knights was seen there at dusk.
+Hero: Stay close. If the hollow knights appears, run for the river of ash.
+Merchant: Take a lantern of embers. You will need it when the shadow army arrives.
+Hero: Thank you. I will not waste a lantern of embers.
+Blacksmith: Few return from the river of ash, but you are not like the others.
+Hero: Stay close. If the shadow army appears, run for the river of ash.
+Guard: Take a torn banner. You will need it when three riders arrives.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Elder: Be careful near the whispering forest. the ash wolves was seen there at dusk.
+Hero: I will find a lantern of embers and end this before the ash wolves reaches the village.
+Elder: Take a silver key. You will need it when the hollow knights arrives.
+Hero: Stay close. If the hollow knights appears, run for the frozen pass.
+Scout: Take a silver key. You will need it when three riders arrives.
+Hero: Stay close. If three riders appears, run for the iron bridge.
+Guard: I can offer you a torn banner for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Guard: If you reach the whispering forest, you will find an ancient map waiting.
+Hero: Stay close. If the hollow knights appears, run for the whispering forest.
+Guard: The path to the whispering forest is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the whispering forest.
+Scout: If you reach the old observatory, you will find a lantern of embers waiting.
+Hero: Stay close. If the ash wolves appears, run for the old observatory.
+Elder: The villagers say the bandit king will strike before the next moon.
+Hero: I will find a torn banner and end this before the bandit king reaches the village.
+Guard: If you reach the ruined citadel, you will find the crystal shard waiting.
+Hero: I will find the crystal shard and end this before the bandit king reaches the village.
+Merchant: Few return from the northern gate, but you are not like the others.
+Hero: Then there is no time to lose. Lead on.
+Merchant: The villagers say the hollow knights will strike before the next moon.
+Hero: I will find a torn banner and end this before the hollow knights reaches the village.
+Scout: The path to the ruined citadel is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Scout: If you reach the northern gate, you will find a lantern of embers waiting.
+Hero: Then there is no time to lose. Lead on.
+Elder: If you reach the frozen pass, you will find the crystal shard waiting.
+Hero: Then there is no time to lose. Lead on.
+Merchant: Be careful near the old observatory. the bandit king was seen there at dusk.
+Hero: I have fought the bandit king before. I am not afraid.
+Blacksmith: The villagers say the bandit king will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Merchant: Be careful near the frozen pass. the hollow knights was seen there at dusk.
+Hero: I have fought the hollow knights before. I am not afraid.
+Guard: Few return from the sunken temple, but you are not like the others.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Guard: Few return from the sunken temple, but you are not like the others.
+Hero: Then there is no time to lose. Lead on.
+Scout: Few return from the northern gate, but you are not like the others.
+Hero: Then there is no time to lose. Lead on.
+Elder: Be careful near the iron bridge. the shadow army was seen there at dusk.
+Hero: Stay close. If the shadow army appears, run for the iron bridge.
+Merchant: Few return from the whispering forest, but you are not like the others.
+Hero: We leave at dawn. Show me the way to the whispering forest.
+Elder: The path to the ruined citadel is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Scout: Few return from the northern gate, but you are not like the others.
+Hero: I will find a rusted blade and end this before the hollow knights reaches the village.
+Merchant: The path to the frozen pass is long. Rest here tonight.
+Hero: I have fought a dragon before. I am not afraid.
+Guard: If you reach the whispering forest, you will find a rusted blade waiting.
+Hero: I have fought the ash wolves before. I am not afraid.
+Guard: If you reach the iron bridge, you will find the crystal shard waiting.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Scout: Be careful near the whispering forest. the ash wolves was seen there at dusk.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: Be careful near the whispering forest. three riders was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the whispering forest.
+Guard: Be careful near the old observatory. the shadow army was seen there at dusk.
+Hero: Stay close. If the shadow army appears, run for the old observatory.
+Elder: If you reach the whispering forest, you will find a silver key waiting.
+Hero: I will find a silver key and end this before the bandit king reaches the village.
+Blacksmith: Few return from the northern gate, but you are not like the others.
+Hero: Thank you. I will not waste a rusted blade.
+Scout: I can offer you a lantern of embers for the road. Spend it wisely.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Elder: If you reach the frozen pass, you will find a silver key waiting.
+Hero: Thank you. I will not waste a silver key.
+Guard: Take a rusted blade. You will need it when the bandit king arrives.
+Hero: We leave at dawn. Show me the way to the old observatory.
+Elder: The path to the frozen pass is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the frozen pass.
+Scout: If you reach the whispering forest, you will find an ancient map waiting.
+Hero: I will find an ancient map and end this before a dragon reaches the village.
+Companion: I can offer you a silver key for the road. Spend it wisely.
+Hero: We leave at dawn. Show me the way to the northern gate.
+Companion: Few return from the river of ash, but you are not like the others.
+Hero: We leave at dawn. Show me the way to the river of ash.
+Elder: If you reach the whispering forest, you will find an ancient map waiting.
+Hero: Thank you. I will not waste an ancient map.
+Scout: If you reach the frozen pass, you will find a healing potion waiting.
+Hero: We leave at dawn. Show me the way to the frozen pass.
+Companion: The villagers say the hollow knights will strike before the next moon.
+Hero: Thank you. I will not waste a lantern of embers.
+Guard: The villagers say three riders will strike before the next moon.
+Hero: I will find an ancient map and end this before three riders reaches the village.
+Elder: Be careful near the old observatory. the ash wolves was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the old observatory.
+Blacksmith: I can offer you a torn banner for the road. Spend it wisely.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Blacksmith: Be careful near the river of ash. three riders was seen there at dusk.
+Hero: Then there is no time to lose. Lead on.
+Elder: Few return from the whispering forest, but you are not like the others.
+Hero: I will find the crystal shard and end this before the shadow army reaches the village.
+Blacksmith: If you reach the old observatory, you will find a torn banner waiting.
+Hero: I have fought the shadow army before. I am not afraid.
+Blacksmith: Take a silver key. You will need it when three riders arrives.
+Hero: I have fought three riders before. I am not afraid.
+Merchant: I can offer you a silver key for the road. Spend it wisely.
+Hero: I have fought the hollow knights before. I am not afraid.
+Guard: The path to the sunken temple is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Elder: Be careful near the ruined citadel. a dragon was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Blacksmith: I can offer you a torn banner for the road. Spend it wisely.
+Hero: Stay close. If the ash wolves appears, run for the whispering forest.
+Elder: I can offer you a silver key for the road. Spend it wisely.
+Hero: Thank you. I will not waste a silver key.
+Blacksmith: Few return from the sunken temple, but you are not like the others.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Guard: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: Stay close. If the shadow army appears, run for the sunken temple.
+Elder: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: Stay close. If a dragon appears, run for the river of ash.
+Merchant: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: I have fought the ash wolves before. I am not afraid.
+Guard: The villagers say the hollow knights will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Elder: Be careful near the frozen pass. the ash wolves was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the frozen pass.
+Merchant: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: I have fought the ash wolves before. I am not afraid.
+Companion: Be careful near the frozen pass. the shadow army was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the frozen pass.
+Guard: The path to the northern gate is long. Rest here tonight.
+Hero: Stay close. If the shadow army appears, run for the northern gate.
+Blacksmith: Be careful near the northern gate. three riders was seen there at dusk.
+Hero: Stay close. If three riders appears, run for the northern gate.
+Merchant: Take a silver key. You will need it when three riders arrives.
+Hero: I will find a silver key and end this before three riders reaches the village.
+Guard: The path to the river of ash is long. Rest here tonight.
+Hero: Thank you. I will not waste a silver key.
+Blacksmith: The path to the northern gate is long. Rest here tonight.
+Hero: I will find an ancient map and end this before three riders reaches the village.
+Companion: The villagers say the bandit king will strike before the next moon.
+Hero: Thank you. I will not waste an ancient map.
+Guard: The path to the whispering forest is long. Rest here tonight.
+Hero: I have fought three riders before. I am not afraid.
+Elder: The path to the frozen pass is long. Rest here tonight.
+Hero: Thank you. I will not waste a lantern of embers.
+Scout: The villagers say the hollow knights will strike before the next moon.
+Hero: Stay close. If the hollow knights appears, run for the whispering forest.
+Scout: I can offer you a healing potion for the road. Spend it wisely.
+Hero: Thank you. I will not waste a healing potion.
+Merchant: The path to the sunken temple is long. Rest here tonight.
+Hero: Stay close. If the shadow army appears, run for the sunken temple.
+Merchant: The villagers say a dragon will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the frozen pass.
+Elder: The villagers say a dragon will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Elder: The path to the frozen pass is long. Rest here tonight.
+Hero: Stay close. If the bandit king appears, run for the frozen pass.
+Companion: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: Stay close. If a dragon appears, run for the river of ash.
+Elder: The path to the frozen pass is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Guard: Be careful near the whispering forest. the hollow knights was seen there at dusk.
+Hero: I have fought the hollow knights before. I am not afraid.
+Merchant: Take a rusted blade. You will need it when the shadow army arrives.
+Hero: Stay close. If the shadow army appears, run for the iron bridge.
+Blacksmith: The villagers say the hollow knights will strike before the next moon.
+Hero: Thank you. I will not waste a rusted blade.
+Guard: I can offer you a torn banner for the road. Spend it wisely.
+Hero: Thank you. I will not waste a torn banner.
+Guard: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: The path to the sunken temple is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Merchant: The path to the sunken temple is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: If you reach the iron bridge, you will find the crystal shard waiting.
+Hero: I have fought the hollow knights before. I am not afraid.
+Scout: I can offer you a lantern of embers for the road. Spend it wisely.
+Hero: I have fought the bandit king before. I am not afraid.
+Elder: Take a torn banner. You will need it when the bandit king arrives.
+Hero: Then there is no time to lose. Lead on.
+Merchant: Take a lantern of embers. You will need it when three riders arrives.
+Hero: Stay close. If three riders appears, run for the river of ash.
+Scout: Be careful near the whispering forest. the shadow army was seen there at dusk.
+Hero: I will find an ancient map and end this before the shadow army reaches the village.
+Companion: Take the crystal shard. You will need it when the hollow knights arrives.
+Hero: Then there is no time to lose. Lead on.
+Scout: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: I will find the crystal shard and end this before the hollow knights reaches the village.
+Guard: The path to the old observatory is long. Rest here tonight.
+Hero: Thank you. I will not waste a lantern of embers.
+Scout: Few return from the northern gate, but you are not like the others.
+Hero: Thank you. I will not waste a lantern of embers.
+Elder: If you reach the whispering forest, you will find a lantern of embers waiting.
+Hero: I will find a lantern of embers and end this before the shadow army reaches the village.
+Companion: Few return from the iron bridge, but you are not like the others.
+Hero: I have fought the hollow knights before. I am not afraid.
+Blacksmith: If you reach the frozen pass, you will find a lantern of embers waiting.
+Hero: I will find a lantern of embers and end this before a dragon reaches the village.
+Guard: The path to the ruined citadel is long. Rest here tonight.
+Hero: I will find the crystal shard and end this before the ash wolves reaches the village.
+Guard: If you reach the sunken temple, you will find a lantern of embers waiting.
+Hero: I have fought a dragon before. I am not afraid.
+Scout: Take the crystal shard. You will need it when the shadow army arrives.
+Hero: Stay close. If the shadow army appears, run for the sunken temple.
+Scout: Few return from the sunken temple, but you are not like the others.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Scout: Take an ancient map. You will need it when the hollow knights arrives.
+Hero: I will find an ancient map and end this before the hollow knights reaches the village.
+Guard: If you reach the whispering forest, you will find a healing potion waiting.
+Hero: Stay close. If the hollow knights appears, run for the whispering forest.
+Blacksmith: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: Thank you. I will not waste the crystal shard.
+Companion: If you reach the old observatory, you will find a lantern of embers waiting.
+Hero: Thank you. I will not waste a lantern of embers.
+Elder: The path to the iron bridge is long. Rest here tonight.
+Hero: Thank you. I will not waste a silver key.
+Blacksmith: The villagers say three riders will strike before the next moon.
+Hero: Thank you. I will not waste the crystal shard.
+Companion: Take the crystal shard. You will need it when the ash wolves arrives.
+Hero: I have fought the ash wolves before. I am not afraid.
+Companion: I can offer you a lantern of embers for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: Few return from the old observatory, but you are not like the others.
+Hero: I have fought a dragon before. I am not afraid.
+Elder: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: Thank you. I will not waste a rusted blade.
+Scout: The villagers say the hollow knights will strike before the next moon.
+Hero: I will find a silver key and end this before the hollow knights reaches the village.
+Companion: The villagers say the hollow knights will strike before the next moon.
+Hero: Thank you. I will not waste a silver key.
+Merchant: Take the crystal shard. You will need it when the shadow army arrives.
+Hero: Then there is no time to lose. Lead on.
+Elder: Be careful near the iron bridge. the bandit king was seen there at dusk.
+Hero: I have fought the bandit king before. I am not afraid.
+Elder: The path to the old observatory is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the old observatory.
+Blacksmith: If you reach the northern gate, you will find an ancient map waiting.
+Hero: I have fought three riders before. I am not afraid.
+Elder: The villagers say the bandit king will strike before the next moon.
+Hero: Stay close. If the bandit king appears, run for the whispering forest.
+Scout: The villagers say three riders will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the river of ash.
+Blacksmith: Take a silver key. You will need it when a dragon arrives.
+Hero: Thank you. I will not waste a silver key.
+Companion: Take a healing potion. You will need it when a dragon arrives.
+Hero: I have fought a dragon before. I am not afraid.
+Scout: The path to the river of ash is long. Rest here tonight.
+Hero: I have fought the ash wolves before. I am not afraid.
+Blacksmith: The path to the river of ash is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the river of ash.
+Merchant: Be careful near the frozen pass. the ash wolves was seen there at dusk.
+Hero: Then there is no time to lose. Lead on.
+Guard: The path to the iron bridge is long. Rest here tonight.
+Hero: Thank you. I will not waste a healing potion.
+Elder: The path to the frozen pass is long. Rest here tonight.
+Hero: Thank you. I will not waste a silver key.
+Guard: Take the crystal shard. You will need it when three riders arrives.
+Hero: Then there is no time to lose. Lead on.
+Guard: The path to the sunken temple is long. Rest here tonight.
+Hero: Thank you. I will not waste a torn banner.
+Companion: Few return from the frozen pass, but you are not like the others.
+Hero: Stay close. If the bandit king appears, run for the frozen pass.
+Merchant: The villagers say the shadow army will strike before the next moon.
+Hero: Thank you. I will not waste a lantern of embers.
+Scout: Take a torn banner. You will need it when a dragon arrives.
+Hero: Thank you. I will not waste a torn banner.
+Merchant: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: Thank you. I will not waste the crystal shard.
+Scout: The villagers say the ash wolves will strike before the next moon.
+Hero: Stay close. If the ash wolves appears, run for the iron bridge.
+Blacksmith: Few return from the sunken temple, but you are not like the others.
+Hero: I will find a torn banner and end this before the shadow army reaches the village.
+Elder: If you reach the whispering forest, you will find a rusted blade waiting.
+Hero: Then there is no time to lose. Lead on.
+Scout: If you reach the ruined citadel, you will find a rusted blade waiting.
+Hero: Thank you. I will not waste a rusted blade.
+Elder: If you reach the river of ash, you will find a silver key waiting.
+Hero: I have fought three riders before. I am not afraid.
+Scout: The villagers say a dragon will strike before the next moon.
+Hero: Thank you. I will not waste a rusted blade.
+Blacksmith: Few return from the iron bridge, but you are not like the others.
+Hero: Stay close. If the bandit king appears, run for the iron bridge.
+Merchant: The villagers say the ash wolves will strike before the next moon.
+Hero: I will find a silver key and end this before the ash wolves reaches the village.
+Elder: Take a silver key. You will need it when the shadow army arrives.
+Hero: Then there is no time to lose. Lead on.
+Guard: Take an ancient map. You will need it when three riders arrives.
+Hero: Thank you. I will not waste an ancient map.
+Merchant: The villagers say three riders will strike before the next moon.
+Hero: I will find a healing potion and end this before three riders reaches the village.
+Merchant: Take a silver key. You will need it when the shadow army arrives.
+Hero: Then there is no time to lose. Lead on.
+Scout: Few return from the sunken temple, but you are not like the others.
+Hero: Stay close. If the shadow army appears, run for the sunken temple.
+Guard: Be careful near the northern gate. the hollow knights was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the northern gate.
+Blacksmith: If you reach the sunken temple, you will find the crystal shard waiting.
+Hero: Stay close. If the hollow knights appears, run for the sunken temple.
+Scout: Be careful near the old observatory. the hollow knights was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the old observatory.
+Companion: Take a healing potion. You will need it when a dragon arrives.
+Hero: I have fought a dragon before. I am not afraid.
+Elder: The villagers say a dragon will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the northern gate.
+Scout: Few return from the river of ash, but you are not like the others.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: If you reach the whispering forest, you will find a lantern of embers waiting.
+Hero: Thank you. I will not waste a lantern of embers.
+Companion: If you reach the sunken temple, you will find a lantern of embers waiting.
+Hero: Stay close. If a dragon appears, run for the sunken temple.
+Blacksmith: Be careful near the old observatory. the bandit king was seen there at dusk.
+Hero: I will find a torn banner and end this before the bandit king reaches the village.
+Guard: Be careful near the whispering forest. the bandit king was seen there at dusk.
+Hero: I will find a silver key and end this before the bandit king reaches the village.
+Scout: I can offer you a torn banner for the road. Spend it wisely.
+Hero: We leave at dawn. Show me the way to the northern gate.
+Companion: If you reach the ruined citadel, you will find a rusted blade waiting.
+Hero: Stay close. If a dragon appears, run for the ruined citadel.
+Elder: The villagers say the bandit king will strike before the next moon.
+Hero: I have fought the bandit king before. I am not afraid.
+Companion: The villagers say three riders will strike before the next moon.
+Hero: I have fought three riders before. I am not afraid.
+Blacksmith: Few return from the whispering forest, but you are not like the others.
+Hero: I will find the crystal shard and end this before the shadow army reaches the village.
+Guard: Be careful near the northern gate. three riders was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the northern gate.
+Scout: The path to the sunken temple is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Merchant: Take a healing potion. You will need it when the hollow knights arrives.
+Hero: Stay close. If the hollow knights appears, run for the ruined citadel.
+Guard: Few return from the frozen pass, but you are not like the others.
+Hero: Thank you. I will not waste a silver key.
+Companion: If you reach the river of ash, you will find a torn banner waiting.
+Hero: I have fought the shadow army before. I am not afraid.
+Merchant: I can offer you a healing potion for the road. Spend it wisely.
+Hero: I have fought the shadow army before. I am not afraid.
+Blacksmith: The path to the old observatory is long. Rest here tonight.
+Hero: Stay close. If the bandit king appears, run for the old observatory.
+Blacksmith: If you reach the old observatory, you will find a lantern of embers waiting.
+Hero: Then there is no time to lose. Lead on.
+Guard: Few return from the ruined citadel, but you are not like the others.
+Hero: Thank you. I will not waste a silver key.
+Guard: The villagers say the hollow knights will strike before the next moon.
+Hero: Thank you. I will not waste a healing potion.
+Merchant: The path to the iron bridge is long. Rest here tonight.
+Hero: I will find a rusted blade and end this before the shadow army reaches the village.
+Merchant: The villagers say the hollow knights will strike before the next moon.
+Hero: I have fought the hollow knights before. I am not afraid.
+Companion: The villagers say the shadow army will strike before the next moon.
+Hero: Stay close. If the shadow army appears, run for the old observatory.
+Merchant: The path to the river of ash is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Elder: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Merchant: The path to the ruined citadel is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Scout: The villagers say three riders will strike before the next moon.
+Hero: Thank you. I will not waste a torn banner.
+Guard: Take a healing potion. You will need it when the shadow army arrives.
+Hero: Then there is no time to lose. Lead on.
+Scout: Be careful near the northern gate. a dragon was seen there at dusk.
+Hero: Then there is no time to lose. Lead on.
+Companion: If you reach the river of ash, you will find an ancient map waiting.
+Hero: We leave at dawn. Show me the way to the river of ash.
+Guard: The villagers say the bandit king will strike before the next moon.
+Hero: Then there is no time to lose. Lead on.
+Guard: If you reach the sunken temple, you will find the crystal shard waiting.
+Hero: I will find the crystal shard and end this before the hollow knights reaches the village.
+Companion: Few return from the northern gate, but you are not like the others.
+Hero: Then there is no time to lose. Lead on.
+Guard: The villagers say the shadow army will strike before the next moon.
+Hero: Thank you. I will not waste a lantern of embers.
+Merchant: The villagers say the shadow army will strike before the next moon.
+Hero: I have fought the shadow army before. I am not afraid.
+Merchant: If you reach the ruined citadel, you will find a lantern of embers waiting.
+Hero: Then there is no time to lose. Lead on.
+Companion: The path to the iron bridge is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Companion: Take a silver key. You will need it when three riders arrives.
+Hero: I will find a silver key and end this before three riders reaches the village.
+Blacksmith: Be careful near the frozen pass. the hollow knights was seen there at dusk.
+Hero: Stay close. If the hollow knights appears, run for the frozen pass.
+Guard: If you reach the ruined citadel, you will find a rusted blade waiting.
+Hero: I have fought the hollow knights before. I am not afraid.
+Guard: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: The path to the iron bridge is long. Rest here tonight.
+Hero: Thank you. I will not waste a lantern of embers.
+Elder: I can offer you a healing potion for the road. Spend it wisely.
+Hero: Thank you. I will not waste a healing potion.
+Guard: The path to the northern gate is long. Rest here tonight.
+Hero: Stay close. If the hollow knights appears, run for the northern gate.
+Merchant: The path to the frozen pass is long. Rest here tonight.
+Hero: Stay close. If the shadow army appears, run for the frozen pass.
+Guard: Take a silver key. You will need it when the bandit king arrives.
+Hero: Thank you. I will not waste a silver key.
+Blacksmith: I can offer you a torn banner for the road. Spend it wisely.
+Hero: I have fought the shadow army before. I am not afraid.
+Guard: Be careful near the sunken temple. the bandit king was seen there at dusk.
+Hero: Thank you. I will not waste an ancient map.
+Elder: Take the crystal shard. You will need it when three riders arrives.
+Hero: Stay close. If three riders appears, run for the river of ash.
+Elder: The villagers say the shadow army will strike before the next moon.
+Hero: Stay close. If the shadow army appears, run for the old observatory.
+Merchant: Few return from the frozen pass, but you are not like the others.
+Hero: Thank you. I will not waste an ancient map.
+Blacksmith: Be careful near the northern gate. three riders was seen there at dusk.
+Hero: Then there is no time to lose. Lead on.
+Companion: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: I will find the crystal shard and end this before a dragon reaches the village.
+Companion: Take the crystal shard. You will need it when the ash wolves arrives.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Companion: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Companion: Take a torn banner. You will need it when the ash wolves arrives.
+Hero: Thank you. I will not waste a torn banner.
+Guard: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: Thank you. I will not waste the crystal shard.
+Companion: Few return from the river of ash, but you are not like the others.
+Hero: Stay close. If the hollow knights appears, run for the river of ash.
+Blacksmith: Be careful near the sunken temple. the ash wolves was seen there at dusk.
+Hero: I have fought the ash wolves before. I am not afraid.
+Companion: The path to the sunken temple is long. Rest here tonight.
+Hero: I have fought a dragon before. I am not afraid.
+Guard: If you reach the old observatory, you will find a torn banner waiting.
+Hero: Stay close. If the bandit king appears, run for the old observatory.
+Scout: I can offer you an ancient map for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Merchant: Take a rusted blade. You will need it when the shadow army arrives.
+Hero: I have fought the shadow army before. I am not afraid.
+Elder: Be careful near the sunken temple. the hollow knights was seen there at dusk.
+Hero: Then there is no time to lose. Lead on.
+Merchant: The villagers say the ash wolves will strike before the next moon.
+Hero: I have fought the ash wolves before. I am not afraid.
+Companion: The path to the northern gate is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Merchant: The villagers say three riders will strike before the next moon.
+Hero: Thank you. I will not waste a lantern of embers.
+Merchant: If you reach the iron bridge, you will find a lantern of embers waiting.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Scout: Take a lantern of embers. You will need it when the bandit king arrives.
+Hero: I have fought the bandit king before. I am not afraid.
+Companion: Be careful near the iron bridge. the hollow knights was seen there at dusk.
+Hero: Stay close. If the hollow knights appears, run for the iron bridge.
+Blacksmith: Take the crystal shard. You will need it when the ash wolves arrives.
+Hero: I have fought the ash wolves before. I am not afraid.
+Guard: The path to the sunken temple is long. Rest here tonight.
+Hero: I have fought the hollow knights before. I am not afraid.
+Merchant: If you reach the river of ash, you will find a rusted blade waiting.
+Hero: We leave at dawn. Show me the way to the river of ash.
+Blacksmith: Take a torn banner. You will need it when three riders arrives.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Guard: Take a rusted blade. You will need it when the ash wolves arrives.
+Hero: Thank you. I will not waste a rusted blade.
+Elder: The villagers say the shadow army will strike before the next moon.
+Hero: Thank you. I will not waste a healing potion.
+Elder: I can offer you an ancient map for the road. Spend it wisely.
+Hero: Thank you. I will not waste an ancient map.
+Companion: Take a rusted blade. You will need it when the bandit king arrives.
+Hero: Then there is no time to lose. Lead on.
+Companion: Be careful near the northern gate. the bandit king was seen there at dusk.
+Hero: Thank you. I will not waste the crystal shard.
+Blacksmith: Take a silver key. You will need it when the shadow army arrives.
+Hero: Stay close. If the shadow army appears, run for the frozen pass.
+Scout: The path to the ruined citadel is long. Rest here tonight.
+Hero: Stay close. If three riders appears, run for the ruined citadel.
+Elder: The villagers say the bandit king will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Companion: The path to the sunken temple is long. Rest here tonight.
+Hero: Thank you. I will not waste an ancient map.
+Elder: Few return from the whispering forest, but you are not like the others.
+Hero: We leave at dawn. Show me the way to the whispering forest.
+Elder: The path to the iron bridge is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Scout: I can offer you a lantern of embers for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Scout: The path to the whispering forest is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Elder: I can offer you a lantern of embers for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Merchant: The path to the northern gate is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the northern gate.
+Scout: Few return from the old observatory, but you are not like the others.
+Hero: Stay close. If three riders appears, run for the old observatory.
+Elder: I can offer you a silver key for the road. Spend it wisely.
+Hero: I have fought the shadow army before. I am not afraid.
+Companion: If you reach the river of ash, you will find a rusted blade waiting.
+Hero: Thank you. I will not waste a rusted blade.
+Merchant: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Elder: Be careful near the sunken temple. the bandit king was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Companion: Be careful near the frozen pass. the bandit king was seen there at dusk.
+Hero: Thank you. I will not waste the crystal shard.
+Guard: The villagers say the shadow army will strike before the next moon.
+Hero: Then there is no time to lose. Lead on.
+Scout: Few return from the river of ash, but you are not like the others.
+Hero: I have fought the ash wolves before. I am not afraid.
+Blacksmith: Few return from the iron bridge, but you are not like the others.
+Hero: Stay close. If a dragon appears, run for the iron bridge.
+Companion: Be careful near the frozen pass. the bandit king was seen there at dusk.
+Hero: I have fought the bandit king before. I am not afraid.
+Guard: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: Thank you. I will not waste the crystal shard.
+Merchant: Take the crystal shard. You will need it when the hollow knights arrives.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Merchant: The villagers say the bandit king will strike before the next moon.
+Hero: Stay close. If the bandit king appears, run for the frozen pass.
+Scout: The path to the ruined citadel is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Elder: Take a healing potion. You will need it when the bandit king arrives.
+Hero: Stay close. If the bandit king appears, run for the frozen pass.
+Scout: Few return from the old observatory, but you are not like the others.
+Hero: Stay close. If a dragon appears, run for the old observatory.
+Guard: The path to the river of ash is long. Rest here tonight.
+Hero: I have fought the ash wolves before. I am not afraid.
+Companion: The villagers say a dragon will strike before the next moon.
+Hero: Stay close. If a dragon appears, run for the old observatory.
+Elder: If you reach the whispering forest, you will find an ancient map waiting.
+Hero: I will find an ancient map and end this before the bandit king reaches the village.
+Elder: The villagers say a dragon will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Merchant: The path to the whispering forest is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: The path to the old observatory is long. Rest here tonight.
+Hero: I have fought the bandit king before. I am not afraid.
+Merchant: Take an ancient map. You will need it when the ash wolves arrives.
+Hero: Stay close. If the ash wolves appears, run for the old observatory.
+Merchant: The path to the iron bridge is long. Rest here tonight.
+Hero: I will find a healing potion and end this before three riders reaches the village.
+Blacksmith: Take a healing potion. You will need it when three riders arrives.
+Hero: I have fought three riders before. I am not afraid.
+Elder: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: Thank you. I will not waste a rusted blade.
+Companion: The villagers say three riders will strike before the next moon.
+Hero: Stay close. If three riders appears, run for the ruined citadel.
+Guard: Few return from the iron bridge, but you are not like the others.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Elder: Be careful near the northern gate. a dragon was seen there at dusk.
+Hero: I have fought a dragon before. I am not afraid.
+Elder: If you reach the sunken temple, you will find the crystal shard waiting.
+Hero: Thank you. I will not waste the crystal shard.
+Blacksmith: I can offer you the crystal shard for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Elder: The villagers say the shadow army will strike before the next moon.
+Hero: I have fought the shadow army before. I am not afraid.
+Guard: The villagers say the bandit king will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Scout: Be careful near the frozen pass. the shadow army was seen there at dusk.
+Hero: I will find a torn banner and end this before the shadow army reaches the village.
+Merchant: The path to the whispering forest is long. Rest here tonight.
+Hero: Stay close. If three riders appears, run for the whispering forest.
+Merchant: If you reach the iron bridge, you will find a healing potion waiting.
+Hero: I have fought the shadow army before. I am not afraid.
+Companion: Few return from the northern gate, but you are not like the others.
+Hero: I have fought the hollow knights before. I am not afraid.
+Scout: The path to the iron bridge is long. Rest here tonight.
+Hero: I have fought the hollow knights before. I am not afraid.
+Elder: Be careful near the frozen pass. the hollow knights was seen there at dusk.
+Hero: Stay close. If the hollow knights appears, run for the frozen pass.
+Blacksmith: Take a torn banner. You will need it when the hollow knights arrives.
+Hero: I have fought the hollow knights before. I am not afraid.
+Companion: Be careful near the sunken temple. the hollow knights was seen there at dusk.
+Hero: Stay close. If the hollow knights appears, run for the sunken temple.
+Scout: The villagers say the bandit king will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Companion: Few return from the river of ash, but you are not like the others.
+Hero: Thank you. I will not waste an ancient map.
+Blacksmith: Take the crystal shard. You will need it when the ash wolves arrives.
+Hero: Stay close. If the ash wolves appears, run for the river of ash.
+Scout: Be careful near the iron bridge. three riders was seen there at dusk.
+Hero: Then there is no time to lose. Lead on.
+Guard: I can offer you a torn banner for the road. Spend it wisely.
+Hero: Stay close. If a dragon appears, run for the river of ash.
+Merchant: I can offer you an ancient map for the road. Spend it wisely.
+Hero: Stay close. If the shadow army appears, run for the northern gate.
+Scout: The path to the northern gate is long. Rest here tonight.
+Hero: I have fought three riders before. I am not afraid.
+Elder: If you reach the northern gate, you will find a lantern of embers waiting.
+Hero: Thank you. I will not waste a lantern of embers.
+Blacksmith: Take a rusted blade. You will need it when a dragon arrives.
+Hero: I have fought a dragon before. I am not afraid.
+Blacksmith: The villagers say the bandit king will strike before the next moon.
+Hero: I will find a lantern of embers and end this before the bandit king reaches the village.
+Companion: Take the crystal shard. You will need it when the hollow knights arrives.
+Hero: Stay close. If the hollow knights appears, run for the river of ash.
+Merchant: Be careful near the old observatory. a dragon was seen there at dusk.
+Hero: Stay close. If a dragon appears, run for the old observatory.
+Companion: The villagers say the shadow army will strike before the next moon.
+Hero: Stay close. If the shadow army appears, run for the ruined citadel.
+Elder: Few return from the river of ash, but you are not like the others.
+Hero: Thank you. I will not waste a torn banner.
+Companion: Take the crystal shard. You will need it when a dragon arrives.
+Hero: I will find the crystal shard and end this before a dragon reaches the village.
+Merchant: Be careful near the ruined citadel. three riders was seen there at dusk.
+Hero: Thank you. I will not waste a torn banner.
+Elder: Few return from the iron bridge, but you are not like the others.
+Hero: I have fought the shadow army before. I am not afraid.
+Scout: If you reach the old observatory, you will find an ancient map waiting.
+Hero: Thank you. I will not waste an ancient map.
+Blacksmith: The villagers say the ash wolves will strike before the next moon.
+Hero: Thank you. I will not waste a silver key.
+Companion: Be careful near the iron bridge. a dragon was seen there at dusk.
+Hero: I have fought a dragon before. I am not afraid.
+Guard: Be careful near the iron bridge. the ash wolves was seen there at dusk.
+Hero: Then there is no time to lose. Lead on.
+Guard: Take a silver key. You will need it when the ash wolves arrives.
+Hero: I have fought the ash wolves before. I am not afraid.
+Blacksmith: Few return from the northern gate, but you are not like the others.
+Hero: I have fought the shadow army before. I am not afraid.
+Scout: Take a silver key. You will need it when the bandit king arrives.
+Hero: I have fought the bandit king before. I am not afraid.
+Companion: Be careful near the northern gate. the bandit king was seen there at dusk.
+Hero: Stay close. If the bandit king appears, run for the northern gate.
+Blacksmith: The path to the frozen pass is long. Rest here tonight.
+Hero: I will find a rusted blade and end this before the ash wolves reaches the village.
+Guard: If you reach the river of ash, you will find a rusted blade waiting.
+Hero: Then there is no time to lose. Lead on.
+Merchant: I can offer you a silver key for the road. Spend it wisely.
+Hero: I will find a silver key and end this before the ash wolves reaches the village.
+Merchant: I can offer you an ancient map for the road. Spend it wisely.
+Hero: I will find an ancient map and end this before three riders reaches the village.
+Elder: Few return from the sunken temple, but you are not like the others.
+Hero: Then there is no time to lose. Lead on.
+Guard: The path to the old observatory is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Scout: I can offer you an ancient map for the road. Spend it wisely.
+Hero: I have fought three riders before. I am not afraid.
+Blacksmith: Be careful near the northern gate. the hollow knights was seen there at dusk.
+Hero: Thank you. I will not waste a rusted blade.
+Merchant: The villagers say a dragon will strike before the next moon.
+Hero: I have fought a dragon before. I am not afraid.
+Companion: The villagers say three riders will strike before the next moon.
+Hero: Thank you. I will not waste a torn banner.
+Scout: If you reach the iron bridge, you will find a rusted blade waiting.
+Hero: Thank you. I will not waste a rusted blade.
+Merchant: If you reach the frozen pass, you will find a torn banner waiting.
+Hero: I will find a torn banner and end this before a dragon reaches the village.
+Scout: Be careful near the northern gate. the ash wolves was seen there at dusk.
+Hero: I have fought the ash wolves before. I am not afraid.
+Companion: Take a torn banner. You will need it when the shadow army arrives.
+Hero: Then there is no time to lose. Lead on.
+Elder: The villagers say three riders will strike before the next moon.
+Hero: Thank you. I will not waste a healing potion.
+Blacksmith: Be careful near the northern gate. the hollow knights was seen there at dusk.
+Hero: I will find a lantern of embers and end this before the hollow knights reaches the village.
+Companion: Be careful near the iron bridge. the hollow knights was seen there at dusk.
+Hero: Thank you. I will not waste a healing potion.
+Blacksmith: Be careful near the iron bridge. the hollow knights was seen there at dusk.
+Hero: Stay close. If the hollow knights appears, run for the iron bridge.
+Scout: The path to the old observatory is long. Rest here tonight.
+Hero: I have fought the shadow army before. I am not afraid.
+Guard: I can offer you a lantern of embers for the road. Spend it wisely.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Merchant: The path to the ruined citadel is long. Rest here tonight.
+Hero: I have fought three riders before. I am not afraid.
+Companion: Be careful near the ruined citadel. the shadow army was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Merchant: Few return from the whispering forest, but you are not like the others.
+Hero: I have fought three riders before. I am not afraid.
+Blacksmith: I can offer you a healing potion for the road. Spend it wisely.
+Hero: Stay close. If the ash wolves appears, run for the frozen pass.
+Elder: Take an ancient map. You will need it when the hollow knights arrives.
+Hero: Then there is no time to lose. Lead on.
+Companion: Few return from the river of ash, but you are not like the others.
+Hero: Then there is no time to lose. Lead on.
+Elder: The villagers say three riders will strike before the next moon.
+Hero: Thank you. I will not waste a rusted blade.
+Elder: If you reach the iron bridge, you will find an ancient map waiting.
+Hero: I will find an ancient map and end this before a dragon reaches the village.
+Guard: Be careful near the river of ash. the ash wolves was seen there at dusk.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: Be careful near the old observatory. the hollow knights was seen there at dusk.
+Hero: I have fought the hollow knights before. I am not afraid.
+Companion: Be careful near the iron bridge. the bandit king was seen there at dusk.
+Hero: Stay close. If the bandit king appears, run for the iron bridge.
+Elder: Take an ancient map. You will need it when the bandit king arrives.
+Hero: I have fought the bandit king before. I am not afraid.
+Elder: The villagers say the shadow army will strike before the next moon.
+Hero: Then there is no time to lose. Lead on.
+Merchant: If you reach the northern gate, you will find a lantern of embers waiting.
+Hero: I have fought the bandit king before. I am not afraid.
+Companion: Be careful near the northern gate. three riders was seen there at dusk.
+Hero: I have fought three riders before. I am not afraid.
+Companion: Be careful near the old observatory. three riders was seen there at dusk.
+Hero: I will find a silver key and end this before three riders reaches the village.
+Elder: If you reach the iron bridge, you will find a silver key waiting.
+Hero: Then there is no time to lose. Lead on.
+Companion: I can offer you a healing potion for the road. Spend it wisely.
+Hero: Stay close. If the bandit king appears, run for the sunken temple.
+Merchant: The villagers say the bandit king will strike before the next moon.
+Hero: Stay close. If the bandit king appears, run for the old observatory.
+Elder: Take the crystal shard. You will need it when the hollow knights arrives.
+Hero: Thank you. I will not waste the crystal shard.
+Companion: Take an ancient map. You will need it when the hollow knights arrives.
+Hero: Thank you. I will not waste an ancient map.
+Merchant: Take a lantern of embers. You will need it when the shadow army arrives.
+Hero: Thank you. I will not waste a lantern of embers.
+Elder: Few return from the frozen pass, but you are not like the others.
+Hero: Stay close. If three riders appears, run for the frozen pass.
+Merchant: Take a healing potion. You will need it when the ash wolves arrives.
+Hero: Stay close. If the ash wolves appears, run for the river of ash.
+Merchant: If you reach the ruined citadel, you will find a torn banner waiting.
+Hero: I will find a torn banner and end this before the bandit king reaches the village.
+Guard: Be careful near the ruined citadel. the hollow knights was seen there at dusk.
+Hero: I have fought the hollow knights before. I am not afraid.
+Merchant: The path to the frozen pass is long. Rest here tonight.
+Hero: We leave at dawn. Show me the way to the frozen pass.
+Elder: The path to the frozen pass is long. Rest here tonight.
+Hero: I have fought a dragon before. I am not afraid.
+Guard: The path to the northern gate is long. Rest here tonight.
+Hero: Then there is no time to lose. Lead on.
+Guard: Be careful near the ruined citadel. three riders was seen there at dusk.
+Hero: I will find a healing potion and end this before three riders reaches the village.
+Guard: Few return from the iron bridge, but you are not like the others.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Blacksmith: The villagers say the hollow knights will strike before the next moon.
+Hero: Stay close. If the hollow knights appears, run for the northern gate.
+Companion: Few return from the river of ash, but you are not like the others.
+Hero: Stay close. If three riders appears, run for the river of ash.
+Companion: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Elder: If you reach the northern gate, you will find the crystal shard waiting.
+Hero: Then there is no time to lose. Lead on.
+Elder: Take a lantern of embers. You will need it when the ash wolves arrives.
+Hero: Thank you. I will not waste a lantern of embers.
+Scout: I can offer you a rusted blade for the road. Spend it wisely.
+Hero: We leave at dawn. Show me the way to the sunken temple.
+Scout: Take the crystal shard. You will need it when three riders arrives.
+Hero: Thank you. I will not waste the crystal shard.
+Elder: Take a rusted blade. You will need it when the ash wolves arrives.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Blacksmith: Take a silver key. You will need it when three riders arrives.
+Hero: I have fought three riders before. I am not afraid.
+Guard: Few return from the northern gate, but you are not like the others.
+Hero: I will find a lantern of embers and end this before the ash wolves reaches the village.
+Elder: I can offer you a lantern of embers for the road. Spend it wisely.
+Hero: Thank you. I will not waste a lantern of embers.
+Elder: The villagers say a dragon will strike before the next moon.
+Hero: Thank you. I will not waste a torn banner.
+Blacksmith: Be careful near the northern gate. the shadow army was seen there at dusk.
+Hero: Stay close. If the shadow army appears, run for the northern gate.
+Companion: The path to the ruined citadel is long. Rest here tonight.
+Hero: Thank you. I will not waste a torn banner.
+Blacksmith: Take an ancient map. You will need it when the ash wolves arrives.
+Hero: We leave at dawn. Show me the way to the river of ash.
+Companion: The villagers say a dragon will strike before the next moon.
+Hero: I will find a rusted blade and end this before a dragon reaches the village.
+Blacksmith: If you reach the northern gate, you will find a lantern of embers waiting.
+Hero: Then there is no time to lose. Lead on.
+Elder: The villagers say three riders will strike before the next moon.
+Hero: I will find a torn banner and end this before three riders reaches the village.
+Scout: The villagers say three riders will strike before the next moon.
+Hero: Then there is no time to lose. Lead on.
+Merchant: Take a silver key. You will need it when three riders arrives.
+Hero: Then there is no time to lose. Lead on.
+Merchant: Few return from the northern gate, but you are not like the others.
+Hero: Then there is no time to lose. Lead on.
+Elder: I can offer you a torn banner for the road. Spend it wisely.
+Hero: I will find a torn banner and end this before a dragon reaches the village.
+Guard: Be careful near the iron bridge. a dragon was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Elder: The villagers say a dragon will strike before the next moon.
+Hero: I have fought a dragon before. I am not afraid.
+Scout: Be careful near the frozen pass. the bandit king was seen there at dusk.
+Hero: Thank you. I will not waste a torn banner.
+Guard: If you reach the sunken temple, you will find a rusted blade waiting.
+Hero: I will find a rusted blade and end this before the ash wolves reaches the village.
+Guard: Be careful near the frozen pass. the hollow knights was seen there at dusk.
+Hero: I have fought the hollow knights before. I am not afraid.
+Elder: If you reach the northern gate, you will find the crystal shard waiting.
+Hero: Thank you. I will not waste the crystal shard.
+Scout: The villagers say three riders will strike before the next moon.
+Hero: I have fought three riders before. I am not afraid.
+Merchant: The path to the iron bridge is long. Rest here tonight.
+Hero: Stay close. If three riders appears, run for the iron bridge.
+Blacksmith: If you reach the river of ash, you will find a silver key waiting.
+Hero: We leave at dawn. Show me the way to the river of ash.
+Merchant: Be careful near the ruined citadel. three riders was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the ruined citadel.
+Merchant: If you reach the frozen pass, you will find a lantern of embers waiting.
+Hero: I will find a lantern of embers and end this before a dragon reaches the village.
+Scout: The villagers say the bandit king will strike before the next moon.
+Hero: I will find a torn banner and end this before the bandit king reaches the village.
+Scout: If you reach the ruined citadel, you will find a torn banner waiting.
+Hero: Stay close. If the hollow knights appears, run for the ruined citadel.
+Companion: Few return from the old observatory, but you are not like the others.
+Hero: Thank you. I will not waste a healing potion.
+Scout: Be careful near the whispering forest. the ash wolves was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the whispering forest.
+Merchant: Take a torn banner. You will need it when the bandit king arrives.
+Hero: Thank you. I will not waste a torn banner.
+Merchant: If you reach the old observatory, you will find a lantern of embers waiting.
+Hero: I will find a lantern of embers and end this before the shadow army reaches the village.
+Merchant: The villagers say the hollow knights will strike before the next moon.
+Hero: We leave at dawn. Show me the way to the iron bridge.
+Companion: I can offer you a torn banner for the road. Spend it wisely.
+Hero: Stay close. If a dragon appears, run for the old observatory.
+Blacksmith: Few return from the sunken temple, but you are not like the others.
+Hero: Thank you. I will not waste a healing potion.
+Blacksmith: Take a lantern of embers. You will need it when a dragon arrives.
+Hero: Then there is no time to lose. Lead on.
+Elder: The villagers say the hollow knights will strike before the next moon.
+Hero: Stay close. If the hollow knights appears, run for the northern gate.
+Blacksmith: I can offer you a lantern of embers for the road. Spend it wisely.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: Be careful near the frozen pass. the shadow army was seen there at dusk.
+Hero: We leave at dawn. Show me the way to the frozen pass.
+Scout: Few return from the iron bridge, but you are not like the others.
+Hero: Thank you. I will not waste a lantern of embers.
+Scout: The villagers say a dragon will strike before the next moon.
+Hero: I will find a silver key and end this before a dragon reaches the village.
+Companion: Few return from the sunken temple, but you are not like the others.
+Hero: Then there is no time to lose. Lead on.
+Blacksmith: The villagers say a dragon will strike before the next moon.
+Hero: Thank you. I will not waste a rusted blade.
+Elder: Be careful near the iron bridge. the bandit king was seen there at dusk.
+Hero: Thank you. I will not waste a silver key.
+Blacksmith: The path to the sunken temple is long. Rest here tonight.
+Hero: I have fought the bandit king before. I am not afraid.
+Guard: The villagers say the hollow knights will strike before the next moon.
+Hero: I have fought the hollow knights before. I am not afraid.
