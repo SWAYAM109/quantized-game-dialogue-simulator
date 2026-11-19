@@ -1,3 +1,5 @@
+<img width="1296" height="420" alt="image" src="https://github.com/user-attachments/assets/b5f287e6-06b8-4e4d-b61b-59651c57cd3c" />
+
 # Quantized Game Dialogue Simulator
 
 A complete educational project that trains a small decoder-only GPT from scratch on a custom game dialogue corpus, generates dialogue, applies dynamic and static INT8 post-training quantization, and compares serialized model size and simulated inference performance.
